@@ -8,7 +8,7 @@ Ao abrir o software, você deverá fornecer um template em PDF.
 
 ![Tela1](Screens/v01/1.png?raw=true "Tela 1")
 
-Em seguida, será liberada a opção para fornecer um arquivo contento os nomes para gerar os certificados.
+Em seguida, será liberada a opção para fornecer um arquivo contendo os nomes para gerar os certificados.
 
 ![Tela2](Screens/v01/2.png?raw=true "Tela 2")
 
